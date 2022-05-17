@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flow-flew&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flow-flew)](https://github.com/flow-flew/github-readme-stats)
+<br>
 <a href="http://profile-counter.glitch.me/">
   <img src="http://profile-counter.glitch.me/flow-flew/count.svg">
   </a>
